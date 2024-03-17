@@ -13,3 +13,7 @@
 .grid-2-columns img{
   width: 400px
 }
+
+#project_hover img:hover{
+opacity: 50%;
+}
